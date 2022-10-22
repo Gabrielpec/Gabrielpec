@@ -7,7 +7,7 @@
 
 ### My current knowledge:
 
-| Ranking | Tecnology | Level | Since |
+| Ranking | Technology | Level | Since |
 | --- | --- | --- | --- |
 | **1** | C Sharp | Advanced beginner| 2019 |
 | **2** | SQL | Advanced beginner | 2019 |
