@@ -2,10 +2,10 @@
 
 ##### Hi there! I'm Gabriel, a 20y Brazilian software development student, And you can see about my skills here!
 
-### Social Medias:
+### Social Medias: :mailbox:	
 [LinkedIn](https://www.linkedin.com/in/gabriel-c%C3%A2mara-11aa5a203/)
 
-### My current knowledge:
+### My current knowledge: :briefcase:	
 
 | Ranking | Technology | Level | Since |
 | --- | --- | --- | --- |
@@ -22,17 +22,17 @@
 | **10** | Blazor | Soon | ???? |
 | **Bonus** | Adobe Photoshop| Intermediate | 2017 |
 
-#### Certificates / Courses
+#### Certificates / Courses :file_folder:	
   1. Análise e Desenvolvimento de Sistemas (Technical course) 06/2019 - 12/2020
     - Centro Paula Souza (ETEC)
   2. Pottencial .NET Developer (Bootcamp)
     - Digital Innovation One dio.me
     
-#### Daily softwares
+#### Daily softwares :computer: :clipboard:	
   1. Visual Studio Code (For Dart and web)
   2. Visual Studio (C#, Windows Form)
   3. Pycharm (Python)
   4. MySQL, SQL Server (Database)
     
- #### My device
+ #### My device :computer:
   Toshiba Satellite M645
