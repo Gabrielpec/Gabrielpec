@@ -1,6 +1,6 @@
 ## Hello, world! 👋
 
-##### Hi there! I'm Gabriel, a 20y Brazilian software development student, And you can see about my skills here!
+##### Hi there! I'm Gabriel, a 20y software development student, And you can see about my skills here!
 
 ### Social Medias: :mailbox:	
 [LinkedIn](https://www.linkedin.com/in/gabriel-c%C3%A2mara-11aa5a203/)
