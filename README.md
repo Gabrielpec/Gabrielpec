@@ -2,9 +2,6 @@
 
 ##### Hi there! I'm Gabriel Perre, a 20y software development student, And you can see about my skills here!
 
-### Social Medias: :mailbox:	
-[LinkedIn](https://www.linkedin.com/in/gabriel-c%C3%A2mara-11aa5a203/)
-
 ### My current knowledge: :briefcase:	
 
 | Ranking | Technology | Level | Since |
