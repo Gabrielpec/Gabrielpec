@@ -32,4 +32,4 @@
   4. MySQL, SQL Server (Database)
     
  #### My device :computer:
-  Toshiba Satellite M645
+  Toshiba Satellite M645 running Ubuntu
